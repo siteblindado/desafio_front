@@ -6,8 +6,9 @@ Bem vindo ao teste da Site Blindado, uma empresa do grupo B2W digital.
 Neste teste vamos tentar entender um pouco qual o seu nivel de conhecimento de React.js.  
 Nao se assuste, caso tenha alguma dificuldade ou duvida pode entrar em contato com guilherme.brein@siteblindado.com.
 
-Faça um fork desse projeto e desenvolva seu código nele. Utilize o README para nos passar quaisquer informações que julgar interessante/necessárias (como rodar o projeto, decisões tomadas, etc).
-
+Faça um fork desse projeto e desenvolva seu código nele.  
+Utilize o README para nos passar quaisquer informações que julgar interessante/necessárias (como rodar o projeto, decisões tomadas, etc).
+  
 Não definimos um tempo para o desafio ser feito, é você quem deve nos passar uma data limite para a entrega do desafio.
 
 ## **Guia**
@@ -50,8 +51,8 @@ Dados que retornam desta API:
 ```
 
 ### - Crie uma vitrine para nossos produtos
-Na pagina da [Site Blindado](http://www.siteblindado.com), em soluções, você pode encontrar a listagem dos nossos produtos.
-Desenvolva uma vitrine onde o usuário poderá adquirir produtos.
+Na pagina da [Site Blindado](http://www.siteblindado.com), em soluções, você pode encontrar a listagem dos nossos produtos.  
+Desenvolva uma vitrine onde o usuário poderá adquirir produtos. Não precisa ser igual a da imagem.
   
 ![alt text](https://i.ibb.co/v1nKJ44/Captura-de-tela-de-2020-10-08-16-31-13.png)
 
