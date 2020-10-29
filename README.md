@@ -4,7 +4,7 @@
 
 Bem vindo ao teste da Site Blindado, uma empresa do grupo B2W digital.  
 Neste teste vamos tentar entender um pouco qual o seu nivel de conhecimento de React.js.  
-Nao se assuste, caso tenha alguma dificuldade ou duvida pode entrar em contato com guilherme.brein@siteblindado.com.
+Nao se assuste, caso tenha alguma dificuldade ou duvida pode entrar em contato com geislor.crestani@siteblindado.com.br
 
 Faça um fork desse projeto e desenvolva seu código nele.  
 Utilize o README para nos passar quaisquer informações que julgar interessante/necessárias (como rodar o projeto, decisões tomadas, etc).
